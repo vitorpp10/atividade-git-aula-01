@@ -10,7 +10,7 @@ Repositório destinado a atividade de Desenvolvimento Web
 
 ```
 atividade-git-aula01/
-└── Aula01;
+└── Aula01
     └── index.html
 ```
 
